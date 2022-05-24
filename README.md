@@ -13,13 +13,11 @@ The above files can be downloaded from [Google Drive](https://drive.google.com/d
 
 ## Citation
 ```shell
-@ARTICLE{9774005,
+@article{xu2022multi,
+  title={Multi-scale Flow-based Occluding Effect and Content Separation for Cartoon Animations},
   author={Xu, Cheng and Qu, Wei and Xu, Xuemiao and Liu, Xueting},
-  journal={IEEE Transactions on Visualization and Computer Graphics}, 
-  title={Multi-scale Flow-based Occluding Effect and Content Separation for Cartoon Animations}, 
+  journal={IEEE Transactions on Visualization and Computer Graphics},
   year={2022},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TVCG.2022.3174656}}
+  publisher={IEEE}
+}
 ```
